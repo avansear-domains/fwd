@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://your-dynamic-qr-url.com",
+      "permanent": false
+    }
+  ]
+}
