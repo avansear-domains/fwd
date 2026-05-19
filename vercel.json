@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "https://your-dynamic-qr-url.com",
+      "destination": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
       "permanent": false
     }
   ]
